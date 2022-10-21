@@ -23,9 +23,12 @@ import numpy as np
 A=np.array([[1,-3],[3,1]]) 
 B=np.array([0,10]) 
 C=np.linalg.solve(A,B) 
-print(C)
-
+print(C) 
 ```
+
+
+
+
 
 ## Output:
 ![Screenshot from 2022-09-21 20-27-25](https://user-images.githubusercontent.com/113497104/191539506-9fd9b8c8-9944-40f7-9415-374c54b21f4f.png)
